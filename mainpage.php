@@ -4,11 +4,13 @@
 
 <div class="container">
     <div class="left">
-        <a>Nieuw</a>
-        <a>Binnekort</a>
-        <a>Contact  </a>
+        <a href="nieuw">Nieuw</a>
+        <a hef="binnekort">Binnekort</a>
+        <a href="contact">Contact  </a>
     </div>
-    <div class="carrousal">
 
-    </div>
-</div>
+    <!-- <div class="carousel">
+  <div class="carousel__itm">Content #1</div>
+  <div class="carousel__item">Content #2</div>
+  <div class="carousel__item">Content #3</div>
+</div> -->
